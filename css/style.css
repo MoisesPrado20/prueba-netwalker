@@ -1,0 +1,12 @@
+
+/* Utilidades  */
+.border-top-md{
+  border-top: medium solid var(--bs-gray) !important;
+}
+
+/* Resolucion sm */
+@media screen and (min-width: 576px) {
+  .w-sm-25{
+    width: 25% !important;
+  }
+}
